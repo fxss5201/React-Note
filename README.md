@@ -10,5 +10,5 @@ react完备详细的介绍，作为文档适合新手查阅和学习。
 3.[《Lean React》](https://zhuanlan.zhihu.com/p/21107252) <br />
 天猫前端工程师编写的react学习文档，react到redux到webpack，react内部机制以及性能管理和数据可视化，还在不断更新中。
 
-4.[《Basic Theoretical Concepts》](https://github.com/reactjs/react-basic) <br />
+4.[《Basic Theoretical Concepts》](https://github.com/reactjs/react-basic) ——by Sebastian Markbåge <br />
 reactAPI核心作者编写，阐述了他设计react的初衷。
