@@ -12,3 +12,8 @@ react完备详细的介绍，作为文档适合新手查阅和学习。
 
 4.[《Basic Theoretical Concepts》](https://github.com/reactjs/react-basic) ——by Sebastian Markbåge <br />
 reactAPI核心作者编写，阐述了他设计react的初衷。
+
+5.[《React.js Introduction For People Who Know Just Enough jQuery To Get By》]
+(http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)<br />
+这是一篇很有趣味的文章，正如文章开头所说，大多数教程都是从介绍react如何优秀开始，而本教程直接带领读者通过使用jQuery和react两种不同方法，
+来实现facebook的评论框，代码详尽，适合熟悉jquery&&学完react基础急需demo练手的同学。
