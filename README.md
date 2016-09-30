@@ -18,3 +18,6 @@ reactAPI核心作者编写，阐述了他设计react的初衷。
 这是一篇很有趣味的文章，正如文章开头所说，大多数教程都是从介绍react如何优秀开始，而本教程直接带领读者通过使用jQuery和react两种不同方法，
 来实现facebook的评论框，代码详尽，适合熟悉jquery&&学完react基础急需demo练手的同学。<br/>
 英文不给力的同学可以点击[这里](https://segmentfault.com/a/1190000003501752)。
+
+6.[Redux中文文档](http://cn.redux.js.org/)<br />
+redux文档翻译水平很不错，不过需要有ES6的基础。
