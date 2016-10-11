@@ -23,3 +23,6 @@ reactAPI核心作者编写，阐述了他设计react的初衷。
 
 7.[Redux中文文档](http://cn.redux.js.org/)<br />
 redux文档翻译水平很不错，不过需要有ES6的基础。
+
+8.[《fullstackreact》](https://www.fullstackreact.com/#packages)<br />
+看过的最风趣，最深入浅出的一本书，不过价格略贵，但是读过令人大呼过瘾。由于全英文，需要很多耐心并且定期温习。还在不断更新中。
