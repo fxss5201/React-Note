@@ -25,7 +25,7 @@ reactAPI核心作者编写，阐述了他设计react的初衷。
 redux文档翻译水平很不错，不过需要有ES6的基础。
 
 8.[《fullstackreact》](https://www.fullstackreact.com/#packages)<br />
-目前在看的最风趣，最深入浅出的一本书，不过价格略贵，但是读过令人大呼过瘾。由于全英文，需要很多耐心并且定期温习。还在不断更新中。
+目前在看的最风趣，最深入浅出的一本书。介绍了react以及计算机编程的思想，高屋建瓴的阐述了目前计算机发展以及未来趋势。由于全英文，需要很多耐心并且定期温习。还在不断更新中。
 
 9.[《Getting started with redux》](https://egghead.io/courses/getting-started-with-redux)<br />
 知名学习网站egghead.io的旗下redux系列课程，适合redux入门。
