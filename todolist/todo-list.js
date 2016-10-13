@@ -1,4 +1,4 @@
-//方法和属性从父组件一层一层传递到自组件，耦合性重，难以维护。
+//方法和属性从父组件一层一层传递到子组件，耦合性重，难以维护。
 
 var TodoBox = React.createClass({
     getInitialState:function(){
@@ -39,7 +39,6 @@ var TodoBox = React.createClass({
     },
     render:function(){
         var statistics = {
-      // 统计任务总数及完成的数量
             todoCount: this.state.data.length || 0,
             todoCompleteCount: this.state.data.filter(function(item) {
                 return item.complete === "true";
