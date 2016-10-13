@@ -119,6 +119,15 @@ var TodoItem = React.createClass({
     }
 });
 
+var TodoFooter = React.createClass({
+  render: function() {
+    return (
+      <li className="list-group-item">{this.props.todoCompleteCount}已完成 / {this.props.todoCount}总数</li>
+    )
+  }
+});
+
+
 var TodoForm = React.createClass({
     submitTask:function(e){
         e.preventDefault();
