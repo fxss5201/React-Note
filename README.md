@@ -29,3 +29,6 @@ redux文档翻译水平很不错，不过需要有ES6的基础。
 
 9.[《Getting started with redux》](https://egghead.io/courses/getting-started-with-redux)<br />
 知名学习网站egghead.io的旗下redux系列课程，适合redux入门。
+
+10.[《Immutable.js浅析及实践》](https://segmentfault.com/a/1190000003910357)<br />
+介绍了React中Immutable.js库的理念和简单使用,介绍了immutable如何通过Structural Sharing的方式实现组件快速更新，提升react性能。
