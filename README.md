@@ -24,8 +24,10 @@ reactAPI核心作者编写，阐述了他设计react的初衷。
 7.[Redux中文文档](http://cn.redux.js.org/)<br />
 redux文档翻译水平很不错，不过需要有ES6的基础。
 
-8.[《fullstackreact》](https://www.fullstackreact.com/#packages)<br />
-目前在看的最风趣，最深入浅出的一本书。介绍了react以及计算机编程的思想，高屋建瓴的阐述了目前react生态圈发展以及未来趋势。由于全英文，需要很多耐心并且定期温习。还在不断更新中。
+8.[《React源码剖析-this.setState》](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)<br />
+作者从源码入手，enqueueUpdate函数通过isBatchingUpdates变量的true或false来判断决定是否刷新组件，进而引入react的 Transaction事务机制。
+文章难度较大，但是核心思想是setState是一个异步方法，根据官方文档可知，setState其实可传入两个参数，一个是对象即state,另一个是回调函数。
+setState在render时才会调用。这样做的是为了批量处理DOM时提升性能。本文我也没有100%吃透，在今后的工作中会逐渐加深理解。
 
 9.[《Getting started with redux》](https://egghead.io/courses/getting-started-with-redux)<br />
 知名学习网站egghead.io的旗下redux系列课程，适合redux入门。
