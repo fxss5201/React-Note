@@ -39,5 +39,4 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 介绍了webpack在运行时，为什么控制台会出现 +X hidden modules的显示信息。其实是webpack makes your attention focus on modules而不是依赖，并无大碍。也可以用`--display-modules`命令来全部显示出来。另:stackoverflow真是个神奇的网站。
 
 12.[《make your react components pretty》](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.4gr3qppoz)<br/>
-本文关注在构建大型组件时，解决过多的props和state以及return造成代码观感丑陋的方案。接入es6和逻辑优化增强代码的可读性。
-
+本文关注在项目中构建大型组件时，解决过多的props和state以及return造成代码观感丑陋的方案。接入es6和逻辑优化增强代码的可读性。
