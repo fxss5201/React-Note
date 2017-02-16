@@ -40,3 +40,6 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 
 12.[《make your react components pretty》](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.4gr3qppoz)<br/>
 本文关注在项目中构建大型组件时，解决过多的props和state以及return造成代码观感丑陋的方案。接入es6和逻辑优化增强代码的可读性。
+
+13.[《深入React技术栈》](https://zhuanlan.zhihu.com/purerender)<br/>
+国内关于react实践方面较新的书籍，原为知乎专栏发布的文章整理成书。书分为三大内容，react，flux，redux。全书用es6编写，适合有一定react使用经验的人阅读。
