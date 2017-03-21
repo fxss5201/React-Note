@@ -1,5 +1,6 @@
 # ReactNote 
-####一：书籍 && 文章
+
+### 一：书籍 && 文章<br/>
 1.[《React’s diff algorithm》](http://calendar.perfplanet.com/2013/diff/)   ——by Christopher Chedeau  <br />
 作者是Facebook图像团队工程师，本文站在初学者的角度通俗易懂地介绍了React的virtualDOM及其实现：diff算法, <br />
 介绍了diff算法如何进行DOM树的查找以及事件监听和委托。
@@ -13,12 +14,11 @@ react完备详细的介绍，作为文档适合新手查阅和学习。
 4.[《Basic Theoretical Concepts》](https://github.com/reactjs/react-basic) ——by Sebastian Markbåge <br />
 reactAPI核心作者编写，阐述了他设计react的初衷。
 
-5.[《React.js Introduction For People Who Know Just Enough jQuery To Get By》]
-(http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)<br />
+5.[《React.js Introduction For People Who Know Just Enough jQuery To Get By》](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)<br />
 这是一篇很有趣味的文章，正如文章开头所说，大多数教程都是从介绍react如何优秀开始，而本教程直接带领读者通过使用jQuery和react两种不同方法，
 来实现facebook的评论框，代码详尽，适合熟悉jquery&&学完react基础急需demo练手的同学。英文不给力的同学可以点击[这里](https://segmentfault.com/a/1190000003501752)。
 
-6.[React框架解析] (http://www.open-open.com/lib/view/open1405409050727.html)<br />
+6.[React框架解析](http://www.open-open.com/lib/view/open1405409050727.html)<br />
 一篇短小精悍的文章，详细地介绍了react运行机制。[英文版](http://blog.reverberate.org/2014/02/react-demystified.html)
 
 7.[Redux中文文档](http://cn.redux.js.org/)<br />
@@ -43,3 +43,6 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 
 13.[《深入React技术栈》](https://zhuanlan.zhihu.com/purerender)<br/>
 国内关于react实践方面较新的书籍，原为知乎专栏发布的文章整理成书。书分为三大内容，react，flux，redux。全书用es6编写，适合有一定react使用经验的人阅读。
+
+14.[《在2017年学习react+redux的一些建议》](https://github.com/iuap-design/blog/issues/178)<br/>
+用友网络团队的分享，分为上中下三篇，对如何编写更优雅的react组件进行分析，以及对于2017年层出不穷的react第三方插件和工具的看法与展望。
