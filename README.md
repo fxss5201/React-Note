@@ -45,4 +45,4 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 国内关于react实践方面较新的书籍，原为知乎专栏发布的文章整理成书。书分为三大内容，react，flux，redux。全书用es6编写，适合有一定react使用经验的人阅读。
 
 14.[《在2017年学习react+redux的一些建议》](https://github.com/iuap-design/blog/issues/178)<br/>
-用友网络团队的分享，分为上中下三篇，对如何编写更优雅的react组件进行分析，以及对于2017年层出不穷的react第三方插件和工具的看法与展望。
+用友网络团队的分享，分为上中下三篇，对react学习路线，学习tips，和如何编写更优雅的react组件进行总结归纳，以及对于2017年层出不穷的react第三方插件和工具的看法与展望。
