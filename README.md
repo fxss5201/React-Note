@@ -47,5 +47,8 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 14.[《在2017年学习react+redux的一些建议》](https://github.com/iuap-design/blog/issues/178)<br/>
 用友网络团队的分享，分为上中下三篇，对react学习路线，学习tips，和如何编写更优雅的react组件进行总结归纳，以及对于2017年层出不穷的react第三方插件和工具的看法与展望。
 
-15.[《一个集合了react,redux,immutable的测试教程》](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)<br/>
-一个todolist的小例子，从0开始使用react构建，并逐渐加入redux,immutable。让你逐步掌握并使用简洁的工具框架开发高性能应用。
+15.[《Getting Started with React, Redux and Immutable: a Test-Driven Tutorial》](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)<br/>
+一个todolist的小例子，全部教程分为两章，从0开始使用react构建，并逐渐加入redux,immutable。让你逐步掌握并使用简洁的工具框架开发高性能应用。
+
+16.[Getting Started with React, Redux and Immutable: a Test-Driven Tutorial-2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)<br/>
+上一篇教程的下篇，加入了redux和immutable。
