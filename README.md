@@ -52,3 +52,6 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 
 16.[《Getting Started with React, Redux and Immutable: a Test-Driven Tutorial》-2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)<br/>
 上一篇教程的下篇，加入了redux和immutable。
+
+17.[《科学地组合React样式》](https://leozdgao.me/ru-he-ke-xue-de-zu-zhi-reactzu-jian-yang-shi/)<br/>
+react所带来的组件化开发的便利，同时也带来团队协作时经常遇到的问题，重复声明的css样式导致覆盖以及大量全局css声明带来的混淆。文章提供了几个思路来解决类似问题。
