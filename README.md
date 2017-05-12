@@ -57,4 +57,4 @@ setState在render时才会调用。这样做的是为了批量处理DOM时提升
 react所带来的组件化开发的便利，同时也带来团队协作时经常遇到的问题，重复声明的css样式导致覆盖出错以及大量全局css声明带来的混淆。文章提供了几个思路来解决类似问题。
 
 18.[《Full-Stack-redux-tutorial》](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)<br/>
-从0开始的redux长篇全栈教程，作者从0打造了一个投票系统，从前后端分别建立了redux,适配移动端，并加入了单元测试。
+从0开始的redux长篇全栈教程，作者从零打造了一个投票系统，从前后端分别建立了redux,适配移动端，并加入了单元测试。
