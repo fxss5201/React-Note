@@ -58,3 +58,6 @@ react所带来的组件化开发的便利，同时也带来团队协作时经常
 
 18.[《Full-Stack-redux-tutorial》](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)<br/>
 从0开始的redux长篇全栈教程，作者从零打造了一个投票系统，从前后端分别建立了redux,适配移动端，并加入了单元测试。
+
+19.[《react-redux》](https://github.com/reactjs/react-redux)<br/>
+react-redux提供connect和provider，使react与redux相连接。需要学习新的代码组建方式和新的API，以及在写代码时需要转换新的思路。
